@@ -1,0 +1,4 @@
+node_mules/
+
+# Ignorar las tablas de multiplicar guardadas
+/out/*.txt
